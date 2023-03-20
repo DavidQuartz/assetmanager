@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+body {
+    @apply bg-gray-900;
+    padding: 20px 10px;
+    color: white;
+}
