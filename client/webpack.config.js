@@ -29,6 +29,6 @@ module.exports = {
 			static: path.join(__dirname, 'public'),
 			hot: true,
 			port: 3000,
-			// compress: true,
+			compress: true,
 		},
 	};
